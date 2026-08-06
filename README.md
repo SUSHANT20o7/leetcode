@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
