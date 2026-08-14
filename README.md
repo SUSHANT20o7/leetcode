@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SUSHANT20o7/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SUSHANT20o7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0922-sort-array-by-parity-ii](https://github.com/SUSHANT20o7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SUSHANT20o7/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SUSHANT20o7/leetcode/tree/master/0283-move-zeroes) |
+| [0922-sort-array-by-parity-ii](https://github.com/SUSHANT20o7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SUSHANT20o7/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0169-majority-element) |
+| [0922-sort-array-by-parity-ii](https://github.com/SUSHANT20o7/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
