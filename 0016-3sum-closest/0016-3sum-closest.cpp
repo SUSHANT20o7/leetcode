@@ -16,4 +16,4 @@ public:
         return closestSum;
         
     }
-};
+};//approach was hamko ek comapraison ke liye kuch find karna tha to give the closestsum so we used closestsum variable aur dekha ki agar absolute difference kam aaya to update karengee closest sum ko
