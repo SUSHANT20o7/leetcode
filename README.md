@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SUSHANT20o7/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUSHANT20o7/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SUSHANT20o7/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SUSHANT20o7/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SUSHANT20o7/leetcode/tree/master/0056-merge-intervals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SUSHANT20o7/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SUSHANT20o7/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
