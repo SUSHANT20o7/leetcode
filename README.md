@@ -110,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SUSHANT20o7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SUSHANT20o7/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SUSHANT20o7/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SUSHANT20o7/leetcode/tree/master/0278-first-bad-version) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SUSHANT20o7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SUSHANT20o7/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
